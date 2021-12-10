@@ -67,8 +67,8 @@ textarea {
 form {
   margin: 20px 0px;
 }
-form:focus {
-  box-shadow: blue;
+input:focus {
+  background-color: white;
   text-align: start;
 }
 .half-size {
