@@ -94,7 +94,7 @@ input[type="radio"] {
   padding: 15px;
   border-radius: 0.35em;
   margin-bottom: 1em;
-  width: 25%;
+  min-width: 50%;
 }
 
 textarea {
@@ -144,13 +144,13 @@ footer {
   }
   #zip {
     min-width: 2%;
-    flex-grow: 0;
+    flex-grow: 0.25;
   }
   input:not([type="checkbox"]):not([type="radio"]):not([id="zip"]),
   select,
   textarea {
     min-width: 70%;
-    flex-grow: 2;
+    flex-grow: 1;
     align-self: center;
   }
 
