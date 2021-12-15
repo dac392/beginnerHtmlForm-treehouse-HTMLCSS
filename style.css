@@ -143,8 +143,8 @@ footer {
     min-width: 30%;
   }
   #zip {
-    min-width: 2%;
-    flex-grow: 0.25;
+    min-width: 25%;
+    flex-basis: 25%;
   }
   input:not([type="checkbox"]):not([type="radio"]):not([id="zip"]),
   select,
