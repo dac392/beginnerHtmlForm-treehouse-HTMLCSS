@@ -1,2 +1,13 @@
-# html-form-practice
-This is some practice with using forms and overall more practice with css. I could make some styling changes and add functionality, but this is a good first draft.
+# Responsive Registration Form - Treehouse - Project
+
+> Project 3 of Treehouse Web
+
+With this project, I deployed a responsive registration form using a wide variety of HTML form input types and attributes. It is also styled with CSS with a mobile-first approach to look great accros various screen sizes
+
+Skills Applied during development:
+
+- HTML
+  - Forms
+- CSS
+  - Flexbox
+  - Media Queries
